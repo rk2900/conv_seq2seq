@@ -154,3 +154,6 @@ flycheck_*.el
 .dir-locals.el
 
 # End of https://www.gitignore.io/api/emacs
+
+
+.idea
